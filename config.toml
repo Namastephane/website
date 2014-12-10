@@ -1,0 +1,23 @@
+baseurl = "http://NamaStephane.me"
+languageCode = "en-us"
+title = "CHAN Stephane"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+canonifyurls = true
+author = "Stéphane Chan"
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+[Params]
+  AuthorName = "Stéphane"
+  github = "NamaStephane"
+  bitbucket = "Tfoux3"
+  twitter = "BboyNach"
+  email = "cs.chan@free.Fr"
+  description = ""
+  cv = "/pages/cv"
+  linkedin = "ccstephane"
+  cover = "/img/beautiful.jpg"
+  logo = "/img/id.jpg"
